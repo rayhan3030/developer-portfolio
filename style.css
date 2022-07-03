@@ -13,11 +13,12 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 7%;
 }
 
 .half-width img {
@@ -37,4 +38,10 @@ section {
     background-image: url(images/tob-banner2.png);
     background-repeat: no-repeat;
 
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
