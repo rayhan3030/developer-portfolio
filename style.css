@@ -81,3 +81,7 @@ h2 {
 #bwd {
     border-left: 10px solid royalblue;
 }
+
+footer p {
+    text-align: center;
+}
