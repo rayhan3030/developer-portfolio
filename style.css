@@ -19,10 +19,12 @@ section {
 .half-width {
     width: 50%;
     padding-left: 7%;
+
+
 }
 
 .half-width img {
-    width: 80%;
+    width: 90%;
 }
 
 .link-button {
@@ -44,4 +46,10 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-bottom: 1in;
+
+}
+
+#p2 {
+    padding-right: 1.2in;
 }
